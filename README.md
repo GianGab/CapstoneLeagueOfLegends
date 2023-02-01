@@ -1,4 +1,5 @@
-# CapstoneLeagueOfLegends   
+# CapstoneLeagueOfLegends ![logo-1200-589b3ef693ce8a750fa4b4704f1e61f2](https://user-images.githubusercontent.com/120195693/216154658-4efdf76f-e58e-4468-bcd6-205971240c17.png)
+  
    
 My capstone project was my final project for my data science academy with DigitalFutures!   
 
@@ -15,3 +16,5 @@ produce a user input that:
    
 **Final comments** - this was a tricky project mostly with the data cleaning bits. I only really knew to use RegEx to do a bunch of the filtering out characters and features etc. But it was a super fun project nevertheless.   
 Many thanks to a user SEOUK JUN KIM from Kaggle for providing the data available on: https://www.kaggle.com/datasets/kdanielive/lol-partchallenger-1087
+
+
