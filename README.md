@@ -1,7 +1,7 @@
 # CapstoneLeagueOfLegends ![logo-1200-589b3ef693ce8a750fa4b4704f1e61f2](https://user-images.githubusercontent.com/120195693/216154658-4efdf76f-e58e-4468-bcd6-205971240c17.png)
   
    
-My capstone project was my final project for my data science academy with DigitalFutures!   
+My final project for my data science academy with DigitalFutures!   
 
 **Context** - In my experience, people in league of legends give up way too quickly! Since emotional reasoning never worked, why not create a means for 
 statistical reasoning?   
