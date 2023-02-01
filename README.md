@@ -14,3 +14,4 @@ produce a user input that:
 **2)** provides encouraging words for anyone whose chances of winning are pretty slim
    
 **Final comments** - this was a tricky project mostly with the data cleaning bits. I only really knew to use RegEx to do a bunch of the filtering out characters and features etc. But it was a super fun project nevertheless.   
+Many thanks to a user SEOUK JUN KIM from Kaggle for providing the data available on: https://www.kaggle.com/datasets/kdanielive/lol-partchallenger-1087
